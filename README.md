@@ -205,7 +205,6 @@ Traditional EEG analysis focuses on classifying tasks (e.g., "left hand movement
 
 ##  References
 
-- **Dataset**: Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. (2004). BCI2000: A General-Purpose Brain-Computer Interface (BCI) System. IEEE TBME 51(6):1034-1043
 - **PhysioNet**: Goldberger, A., et al. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation 101(23):e215-e220
 
 ## License
@@ -215,8 +214,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ##  Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@YoussefWael18](https://github.com/YoussefWael18)
+- Email: youssef.wael@ieee.org
 
 ## Acknowledgments
 
